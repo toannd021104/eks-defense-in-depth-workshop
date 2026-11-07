@@ -1,0 +1,10 @@
+.local/
+.terraform/
+*.tfstate*
+*.tfplan
+terraform.tfvars
+.env*
+__pycache__/
+workshop/public/
+workshop/resources/
+.hugo_build.lock
